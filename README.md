@@ -7,3 +7,4 @@ This project classifies iris flower into 3 categories:
 Algorithms used are:
 1. Decision Tree
 2. K-Nearest Neighbours
+3. K-Means Clustering
